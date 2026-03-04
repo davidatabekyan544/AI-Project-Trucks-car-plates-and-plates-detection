@@ -3,6 +3,11 @@
 ## Overview
 This project detects trucks and recognizes Armenian license plates using YOLOv8 and CRNN.
 
+## Datasets
+Truck dataset: universe.roboflow.com/roboflow-100/vehicles-q0x2v/dataset/2
+Plate dataset: kaggle.com/datasets/fareselmenshawii/large-license-plate-dataset
+Plates recognition: https://roadpolice.am/hy/plate-number-search
+
 ## Models Used
 - YOLOv8l (Truck Detection)
 - YOLOv8n (Plate Detection)
